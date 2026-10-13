@@ -3,7 +3,8 @@
 # Vender performance analysis
 “This project focuses on analyzing employee details, salaries, and department information using PYTHON to generate useful business insights and support better decision-making.”
 
-# Purpose 
+
+# Project Purpose 
 The main purpose of this project is that analyze vender performance and find meaningful insights.
 
 
