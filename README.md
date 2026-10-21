@@ -7,6 +7,8 @@
 # 🔍Project Purpose: 
 The main purpose of this project is that analyze vender performance and find meaningful insights.
 
+# Problems:
+
 
 
 # 🚀 Project Outcome:
