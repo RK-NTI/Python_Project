@@ -17,3 +17,6 @@
 # 🔑Key Insights:
 
 • The analysis revealed top-performing vendors, sales trends, and areas for improvement.
+
+
+# Project Purpose
