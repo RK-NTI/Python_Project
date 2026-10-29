@@ -1,8 +1,8 @@
 # Python_Project
 
-# Churn Analysis 
+# 📊Churn Analysis 
 
-# 📊Vender Performance Analysis
+# Vender Performance Analysis
 • “This project focuses on analyzing employee details, salaries, and department information using PYTHON to generate useful business insights and support better decision-making.”
 
 
