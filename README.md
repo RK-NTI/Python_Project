@@ -22,3 +22,5 @@
 
 
 # what is Churn?
+
+# Churn analysis is a business system that:
