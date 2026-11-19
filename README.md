@@ -6,10 +6,8 @@
 
 # 🔍Project Purpose: 
 • The main purpose of this project is that analyze vender performance and find meaningful insights.
-# Analysis
 
 
-# Project Problem
 
 # 🚀 Project Outcome:
 
@@ -21,6 +19,5 @@
 • The analysis revealed top-performing vendors, sales trends, and areas for improvement.
 
 
-# dashboard
 
 
