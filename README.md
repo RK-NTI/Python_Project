@@ -9,6 +9,8 @@
 # Analysis
 
 
+# Project Problem
+
 # 🚀 Project Outcome:
 
 • The project helped me analyze vendor performance, identify top-performing vendors, and understand areas for improvement.
