@@ -6,8 +6,7 @@
 # 🔍Project Purpose: 
 • The main purpose of this project is that analyze vender performance and find meaningful insights.
 
-# WHAT IS CHURN:
-WHY CUSTOMERS LEAVE OUR COMPANY. WHAT IS REASON. HOW WE CONTROLL IT.
+
 
 # 🚀 Project Outcome:
 • The project helped me analyze vendor performance, identify top-performing vendors, and understand areas for improvement.
