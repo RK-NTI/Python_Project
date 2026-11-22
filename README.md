@@ -12,9 +12,7 @@
 • The project helped me analyze vendor performance, identify top-performing vendors, and understand areas for improvement.
 
 
+
+
 # 🔑Key Insights:
 • The analysis revealed top-performing vendors, sales trends, and areas for improvement.
-
-
-# ANALYST:
-A DATA ANALYST IS DO ABOVE ALL PROCESS AND FIND MEANINGFUL INSIGHTS FOR COMPANY TO TAKE DECISION.
