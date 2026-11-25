@@ -1,7 +1,6 @@
 # Python_Project
 # 📊Churn Analysis 
-• “This project focuses on analyzing employee details, salaries, and department information using PYTHON to generate useful business insights and support better    
-  decision-making.”
+• “This project focuses on analyzing employee details, salaries, and department information using PYTHON to generate useful business insights and support better decision-making.” 
 
 
 # 🔍Project Purpose: 
