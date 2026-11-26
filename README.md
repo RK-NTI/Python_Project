@@ -15,6 +15,7 @@ This project is relatedto a company that why customer leave company.
 • The project helped me analyze vendor performance, identify top-performing vendors, and understand areas for improvement.
 
 
+# Project Outcome
 
 
 # 🔑Key Insights:
