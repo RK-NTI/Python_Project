@@ -8,6 +8,7 @@
 
 
 # About Project
+This project is relatedto a company that why customer leave company.
 
 
 # 🚀 Project Outcome:
